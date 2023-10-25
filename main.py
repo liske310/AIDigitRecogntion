@@ -1,5 +1,5 @@
 # Example from https://www.toptal.com/data-science/machine-learning-number-recognition
-
+# Example from https://www.youtube.com/watch?v=bte8Er0QhDg
 from sklearn.datasets import load_digits
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split, cross_val_score
